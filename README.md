@@ -2,14 +2,14 @@
 https://drive.google.com/drive/folders/1Nx9cdPD21ji3Nc1FL0iHAFefiJcFLAwv?usp=drive_link
 
 # Pan and Tilt Face Tracking Project
-This project focuses on implementing pan and tilt face tracking using [insert technology/language/framework used]. The codebase here represents a completed implementation of the face tracking system.
+This project focuses on implementing pan and tilt face tracking using ESP32-CAM , arduino uno two sg90 servo motors. The codebase here represents a completed implementation of the face tracking system.
 
 ## Features
 Pan and Tilt Mechanism: Control the movement of a camera system to track faces.
-Face Detection: Utilizes [specific library/tool] for detecting and locating faces in the camera feed.
+Face Detection: Using CVzone detecting and locating faces in the camera feed.
 Real-time Tracking: The system continuously adjusts the camera position to keep the detected face in the center of the frame.
 ## Getting Started
-To get started with this project, ensure you have [specific requirements/software] installed. Follow these steps:
+To get started with this project, ensure you have arduino ide and idle and the needed library installed. Follow these steps:
 
 ## Clone the Repository:
 
