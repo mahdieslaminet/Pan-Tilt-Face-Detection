@@ -1,1 +1,1 @@
-# Pan-Tilt-Face-Detection
+# pan-and-tilt-face-detection
